@@ -71,3 +71,8 @@ Vous pouvez consulter et exécuter ce projet sur Kaggle ici :
 Conv2D → ReLU → MaxPooling → Dropout
 Conv2D → ReLU → MaxPooling → Dropout
 Flatten → Dense → Dropout → Dense (Softmax)
+
+## 📝 Licence
+
+Projet réalisé à des fins académiques. Les données sont la propriété des auteurs sur Kaggle. Le code peut être réutilisé avec mention de l’autrice.
+
