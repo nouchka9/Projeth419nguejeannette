@@ -25,7 +25,7 @@ Chacun contient deux catégories : `NORMAL` et `PNEUMONIA`.
 ## 💻 Notebook sur Kaggle
 
 Vous pouvez consulter et exécuter ce projet sur Kaggle ici :  
-👉 [Lien vers le notebook Kaggle](https://www.kaggle.com/ton-nom-utilisateur/nom-du-notebook) *(remplace par ton lien réel)*
+👉 [Lien vers le notebook Kaggle](https://www.kaggle.com/code/jeannettengue/projeth419-n-jeannette/edit/run/233184165)) 
 
 ---
 
